@@ -2,7 +2,7 @@
     "name": "$providerName",
     "description": "The $providerName provider.",
     "version": "1.0.0",
-    "author": "Nuvio",
+    "author": "autovalue",
     "supportedTypes": [
         "movie",
         "tv"

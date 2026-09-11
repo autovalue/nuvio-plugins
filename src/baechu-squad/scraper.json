@@ -1,0 +1,7 @@
+{
+    "name": "Baechu Squad",
+    "description": "Contains brainy Korean Variety shows - primarily sourced from Baechu Squad.",
+     "supportedTypes": [
+        "tv"
+    ]
+}
