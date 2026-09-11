@@ -1,0 +1,31 @@
+{
+  "name": "autovalue plugins",
+  "version": "1.0.0",
+  "description": "Generated providers for Nuvio",
+  "scrapers": [
+    {
+      "id": "baechu-squad",
+      "name": "Baechu Squad",
+      "description": "Contains brainy Korean Variety shows - primarily sourced from Baechu Squad.",
+      "version": "1.0.0",
+      "author": "autovalue",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/baechu-squad.js",
+      "enabled": true,
+      "logo": "",
+      "contentLanguage": [
+        "en"
+      ],
+      "formats": [
+        "mp4",
+        "mkv",
+        "hls"
+      ],
+      "limited": false,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    }
+  ]
+}
